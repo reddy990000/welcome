@@ -1,0 +1,2 @@
+ set config inside the new repository
+    --server-option <server-specific>
